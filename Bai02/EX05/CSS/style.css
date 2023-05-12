@@ -1,8 +1,9 @@
 body{
-    padding: 0px;
-    margin: 0px;
+    margin: 0;
+    padding: 0;
     font-family:Times New Roman;
-    color: red(19, 16, 16);
+    color: red(30, 19, 20);
+
   
 }
 
@@ -20,10 +21,11 @@ ul{
 
 /* Header **/
 header {
-    width: 200%;
-    background-color: red;
-    display: inline-block;
-    border-bottom: 3px solid  red;
+   width: 200px;
+  background: #DAC8BF;
+  color: #333;
+  height: 100px;
+  margin: 10px 0px 0px 0px;
   }
   
 
@@ -67,8 +69,9 @@ header a:hover{
 }   
 
 footer{
-    background-color: red(15, 112, 156);
-    height: 50px;
-    padding-top: 21px;
-    font-size: 10px;
+   width: 200px;
+  background: #BD9C8C;
+  color: #DAC8BF;
+  margin: 0px 0px 10px 0px;
+  padding: 10px;
 }
