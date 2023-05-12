@@ -1,1 +1,74 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family:Times New Roman;
+    color: red(19, 16, 16);
+  
+}
 
+
+/* Global */
+section .container{
+    margin: 50px;
+}
+
+
+ul{
+ 
+
+}
+
+/* Header **/
+header {
+    width: 200%;
+    background-color: red;
+    display: inline-block;
+    border-bottom: 3px solid  red;
+  }
+  
+
+header a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: red(3, 22, 19);
+    font-family:Times New Roman;
+
+}
+
+header li{
+   display: inline-block;
+   margin: 0 10px;
+}
+
+header #branding{
+
+}
+
+header #branding h1{
+    display: inline-block;
+    margin-left: 50px;
+    line-height: 50px;
+
+    color: rgb(3, 22, 19);
+    font-family:Comic Sans MS;
+
+}
+header nav{
+    
+    
+}
+
+header .highlight, header .current a{
+}
+
+header a:hover{
+    
+}   
+
+footer{
+    background-color: red(15, 112, 156);
+    height: 50px;
+    padding-top: 21px;
+    font-size: 10px;
+}
