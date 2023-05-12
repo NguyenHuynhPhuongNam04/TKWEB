@@ -66,3 +66,7 @@ footer{
   padding: 10px;
 
 }
+#newsletter form input[type="email"], .quote input, .quote textarea{
+    
+  }
+
