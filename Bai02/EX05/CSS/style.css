@@ -52,8 +52,8 @@ header #branding h1{
     margin-left: 50px;
     line-height: 50px;
 
-    color: rgb(3, 22, 19);
-    font-family:Comic Sans MS;
+    color: red(3, 22, 19);
+    font-family:Times New Roman;
 
 }
 header nav{
