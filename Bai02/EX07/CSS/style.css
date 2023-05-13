@@ -41,7 +41,6 @@ header a{
    text-transform: uppercase;
    font-weight: bold;
    color: red(3, 22, 19);
-   font-family:Times New Roman;
 }
 
 header li{
