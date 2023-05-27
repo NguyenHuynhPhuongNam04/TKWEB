@@ -1,9 +1,9 @@
 function kiemTraChanLe(so) {
     // Viết mã ở đây
     if(so % 2 == 0){
-		    console.log('Chan');
+        console.log('Chan');
     }else{
-		    console.log('Le');
+	console.log('Le');
         }
 }
 
