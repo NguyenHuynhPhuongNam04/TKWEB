@@ -1,1 +1,1 @@
-#Bài tập JavaScript.
+# Bài tập JavaScript.
