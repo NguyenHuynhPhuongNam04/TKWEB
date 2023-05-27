@@ -4,7 +4,7 @@ function kiemTraChanLe(so) {
         console.log('Chan');
     }else{
 	console.log('Le');
-        }
+    }
 }
 
 // Ví dụ sử dụng
